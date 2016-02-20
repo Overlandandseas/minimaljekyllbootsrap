@@ -1,7 +1,7 @@
 #Jekyll Bootstrap
 This is the most basic assets you need to start working on a Jekyll app using Twitter Bootstrap.
 ####Jekyll
-Jekyll is a site site generator built in ruby. It allows you use abstraction languages such as Sass and Coffeescript. It also takes care of other things like pretty urls so no need to mess around with nginx configs. For more info check out their [offical site](http://jekyllrb.com/ "Jekyll's Offical Website").
+Jekyll is a static site generator built in ruby. It allows you use abstraction languages such as Sass and Coffeescript. It also takes care of other things like pretty urls so no need to mess around with nginx configs. For more info check out their [offical site](http://jekyllrb.com/ "Jekyll's Offical Website").
 ####Bootstrap
 Bootstrap is a css library/framework that is designed with mobile and responsive web design in mind. It is created and maintained by Twitter. The default css used by Jekyll is very similar but for those that are more familiar with Bootstrap it can take time learning the difference. This will hopefully side-step that. [Bootstrap's Offical Site](http//getbootstrap.com/ "BootStrap's Offical Site")
 
