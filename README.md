@@ -1,4 +1,5 @@
 #Jekyll Bootstrap
+
 This is the most basic assets you need to start working on a Jekyll app using Twitter Bootstrap.
 ####Jekyll
 Jekyll is a static site generator built in ruby. It allows you use abstraction languages such as Sass and Coffeescript. It also takes care of other things like pretty urls so no need to mess around with nginx configs. For more info check out their [offical site](http://jekyllrb.com/ "Jekyll's Offical Website").
